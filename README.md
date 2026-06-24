@@ -84,7 +84,7 @@ To select multiple tables: **Ctrl+click** individual rows, or right-click → **
 
 ---
 
-## Wheel Image Matching
+##  Image Matching
 
 Wheel images are auto-matched from your Wheel Images Folder by comparing filenames to table names. The matcher:
 
