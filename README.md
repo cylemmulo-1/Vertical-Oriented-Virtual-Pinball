@@ -1,4 +1,7 @@
 # VPinball Vertical
+Disclaimer: This was made modstly with the help of AI, so I don't take too much credit for it. It was a decent amount of work to get right and help with but I don't want to take too much credit for this.
+
+NOTE : This version will rotate the interface for someone using cabinet mode where you need the display in landscape even though it's in portrait. 
 
 A portrait-oriented frontend for Visual Pinball X, designed for virtual pinball cabinets where the playfield monitor is physically rotated 90°.
 
