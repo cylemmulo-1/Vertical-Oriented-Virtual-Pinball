@@ -1,3 +1,4 @@
+<img width="1426" height="2560" alt="Screenshot (413)" src="https://github.com/user-attachments/assets/05a5ec73-44a9-49a7-899b-52b2c9bc88da" />
 # VPinball Vertical
 Disclaimer: This was made modstly with the help of AI, so I don't take too much credit for it. It was a decent amount of work to get right and help with but I don't want to take too much credit for this.
 
